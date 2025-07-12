@@ -1,0 +1,16 @@
+.sbg-danger
+{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+*{
+    background-color: aqua;
+    border: 1px solid black;
+}
+/* body{
+    background-color: aqua;
+    border: 1px solid black;
+} */
+ /*   * will work on all elements & body on only body   */
+ 
