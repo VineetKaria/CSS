@@ -1,0 +1,42 @@
+/* reset styles */
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.div1 ,.div2{
+    width: 300px;
+    margin: 20px;
+    padding: 5px;
+    border: 5px solid black;
+    display: inline-block;
+}
+.div2{
+    box-sizing: border-box;
+}
+.sp{
+    margin: 20px;
+    padding: 10px;
+    border: 6px dotted darkcyan;
+    display: inline-block;
+}
+#div1{
+    background-color: darkblue;
+
+}
+#div2{
+    background-color: darkgray;
+}
+.container{
+    width: 900px;
+    height: 600px;
+    background-color:khaki;
+}
+.container>div{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+#para{
+    visibility: hidden;
+}

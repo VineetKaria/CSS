@@ -1,0 +1,26 @@
+.container{
+    width: 1000px;
+    height: 1500px;
+    background-color:aqua;
+}
+.container>div{
+    display: inline-block;
+    width: calc(25% - 24px);
+    vertical-align: top;
+    height: 400px;
+    object-fit: cover;
+    margin: 12px;
+}
+.box-model{
+    width: 100%;
+    border-radius: 50%;
+    height: 200px;
+
+
+
+}
+
+.h{
+    text-align: center;
+}
+

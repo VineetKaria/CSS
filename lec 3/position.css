@@ -1,0 +1,13 @@
+.container>div{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    margin: 20px;
+    border: 2px solid black;
+}
+#div1{
+    background-color: green;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
