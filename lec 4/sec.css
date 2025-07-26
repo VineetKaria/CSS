@@ -1,0 +1,26 @@
+#parent{
+    width: 900px;
+    height: 900px;
+    background-color: aliceblue;
+    border: 2px solid black;
+
+}
+#child{
+    width: 50%;
+    height: 50%;
+    border: 2px solid green;
+    margin: auto;
+}
+.second{
+    border: 2px solid black;
+    width: 60vh;
+}
+#para1{
+    font-size: 3rem;
+}
+p{
+    font-size: 30px;
+}
+span{
+    font-size: 2em;
+}

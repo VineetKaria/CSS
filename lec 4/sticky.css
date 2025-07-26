@@ -1,0 +1,18 @@
+#s{
+    position: sticky;
+    background-color: aquamarine;
+    top: 0px;
+
+}
+
+.main{
+    border: 2px solid blue;
+}
+#fixdiv{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: red;
+    color: white;
+    z-index: 8; 
+}
