@@ -1,0 +1,28 @@
+.box{
+    background-color: aqua;
+    border: 2px solid black;
+}
+/* phones */
+@media (max-width:600px) {
+    .box{
+        background-color: beige;
+    }
+}
+/* big phone and small tab */
+@media (min-width:600px) and (max-width:768px) {
+    .box{
+        background-color: rgb(77, 31, 192);
+    }
+}
+/* big tab */
+@media (min-width:769px) and (max-width:992px) {
+    .box{
+        background-color: rgb(40, 119, 20);
+    }
+}
+/* laptop */
+@media (min-width:993px) and (max-width:1200px) {
+    .box{
+        background-color: rgb(180, 50, 61);
+    }
+}
